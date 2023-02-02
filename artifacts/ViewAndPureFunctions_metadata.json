@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "dec",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "inc",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"web3_walkIn/cointer.sol": "ViewAndPureFunctions"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"web3_walkIn/cointer.sol": {
+			"keccak256": "0xdb3cf5983d5a3b007b201be688ff943008db1d1fda1a512bc29dce6524e02317",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://eba3fc85411ca51fe0c96e7595b44104bdfe15bab5cef95c9a12bbae5e135a22",
+				"dweb:/ipfs/QmTSTEkmDXjciVXB2sxzbvEzm2Znq3GMNkqzu9R3uraUzr"
+			]
+		}
+	},
+	"version": 1
+}
