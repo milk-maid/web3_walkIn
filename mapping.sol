@@ -20,6 +20,6 @@ contract Mapping {
         balances[msg.sender] += 456; //updating the value to 123 + 456 = 579
         delete balances[msg.sender];  //will reset it to the default value === 0
 
-        isFriend[msg.sender][address(this)] = true; 
+        isFriend[msg.sender][address(this)] = true;  
     }
 }
