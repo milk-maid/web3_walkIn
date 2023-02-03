@@ -84,11 +84,11 @@
 	},
 	"sources": {
 		"web3_walkIn/mapping.sol": {
-			"keccak256": "0x4aeca14f23288cf9ca684d5c9e24784aa633c323d8119de25686a7a23e0b1393",
+			"keccak256": "0x3ba05dce69c6cf5edc6bed173cca82448ecf06bce8d42fac9c0976b3e9c2069f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://db2ae22ecd0471e027d3ccc89f78e94f6e13b9b3a69c257835a7816000fb7004",
-				"dweb:/ipfs/QmXqdB8Hy5fDqxuvVdXypmhiZCRe34TgJYWqKUyJLAbAnw"
+				"bzz-raw://bda4de9a72addc6f703c6ef87a92d0c2d503262af027b6fa2f3cdc8a46bf40f1",
+				"dweb:/ipfs/QmWEWJse4fsLRuXyCwbhMNYpAKA6AxNP7Yk2texZGBNpRM"
 			]
 		}
 	},
